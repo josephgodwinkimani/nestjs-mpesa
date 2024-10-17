@@ -114,6 +114,14 @@ export class AppService {
 -   [nestjs](https://nestjs.com)
 -   [mpesapay](https://www.npmjs.com/package/mpesapay)
 
+## Contributing
+
+Thanks to everyone who has contributed to this project so far.
+
+<a href="https://github.com/josephgodwinkimani/nestjs-mpesa/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=josephgodwinkimani/nestjs-mpesa" />
+</a>
+
 ## License
 
 [MIT](./LICENSE)
