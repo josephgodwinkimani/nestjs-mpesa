@@ -27,7 +27,7 @@
     ],
     "scripts": {
         "build": "rimraf lib && tsc --project tsconfig.build.json",
-        "format": "sort-package-json && prettier --write '**/*.{ts,json,md}",
+        "format": "sort-package-json && prettier --write \"src/**/*.ts\" ",
         "prepare": "node .husky/install.mjs",
         "test": "jest",
         "test:coverage": "jest --coverage",
